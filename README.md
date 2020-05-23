@@ -4,7 +4,9 @@ Exprsss + Prisma + React and React Native
 
 ## User Stories
 
-- [ ] Log in
+- [x] Create account
+- [ ] Request secret
+- [ ] Confirm secret (Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
@@ -13,7 +15,6 @@ Exprsss + Prisma + React and React Native
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [x] Create account
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
