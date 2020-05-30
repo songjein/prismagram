@@ -6,7 +6,7 @@ Exprsss + Prisma + React and React Native
 
 - [x] Create account
 - [x] Request secret
-- [ ] Confirm secret (Login)
+- [x] Confirm secret (Login)
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
