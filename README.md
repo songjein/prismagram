@@ -9,8 +9,8 @@ Exprsss + Prisma + React and React Native
 - [x] Confirm secret (Login)
 - [x] Like / Unlike a photo
 - [ ] Comment on a photo
-- [ ] Search by user
-- [ ] Search by location
+- [x] Search by user
+- [x] Search by location
 - [ ] See user profile
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
