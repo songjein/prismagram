@@ -21,8 +21,8 @@ const verifyUser = async (payload, done) => {
   }
 };
 
-// middleware
-// passport.authenticate은  밑에서 등록했던 Strategy를 이용해서 jwt 토큰을 추출
+// middleware, server.js에서 등록됨.
+// passport.authenticate은 밑에서 등록했던 Strategy를 이용해서 jwt 토큰을 추출
 // => 토큰이 추출 되면 verifyUser를 payload와 함께 실행
 // => verifyUser에서 유저를 받아온 이후에 req 객체에 user를 넣어준다.
 // express는 미들웨어를 거쳐 라우트가 실행 되는데, 거기서 req.user로 유저에 접근이 가능.
