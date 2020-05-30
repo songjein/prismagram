@@ -11,10 +11,11 @@ Exprsss + Prisma + React and React Native
 - [x] Comment on a photo
 - [x] Search by user
 - [x] Search by location
-- [ ] See user profile
+- [x] See user profile
+- [x] See my profile
 - [x] Follow / Unfollow User
 - [ ] See the full photo
-- [ ] Edit my profile
+- [x] Edit my profile
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
