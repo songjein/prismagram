@@ -11,6 +11,10 @@ type User {
   likes: [Like!]!
   comments: [Comment!]!
   rooms: [Room!]!
+
+  fullName: String
+  isFollowing: Boolean!
+  isSelf: Boolean!
 }
 
 type Post {
