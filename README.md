@@ -14,7 +14,7 @@ Exprsss + Prisma + React and React Native
 - [x] See user profile
 - [x] See my profile
 - [x] Follow / Unfollow User
-- [ ] See the full photo
+- [x] See the full photo
 - [x] Edit my profile
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)
